@@ -1,4 +1,5 @@
 # what-
+what can i say
 i don't want to open my mouth now.
 #include<stdio.h>
 int main()
