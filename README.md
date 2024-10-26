@@ -16,4 +16,5 @@ int main()
 	printf("Address of q=%u\n",r);
 	
 	printf("Value of a=%d\n",a);
+        if you see such thtings, and you know.
 }
