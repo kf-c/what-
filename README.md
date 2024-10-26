@@ -10,7 +10,7 @@ int main()
 	int ***r=&q;
 	
 	printf("Address of a=%u\n",&a);
-	printf("Address of a=%u\n",p);
+        scanf("%d",&pig);
 	printf("Address of p=%u\n",&p);
 	printf("Address of p=%u\n",q);
 	printf("Address of q=%u\n",&q);
